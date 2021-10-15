@@ -1,0 +1,30 @@
+#color {
+    color: gold;
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 800;
+    text-align: center;
+    margin-top: 3%;
+}
+
+.borde {
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+
+/*Mi estilo de scroll*/
+
+::-webkit-scrollbar {
+    width: 15px;
+}
+
+::-webkit-scrollbar-track {
+    background: #fec106;
+    border-radius: 45px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #9a9ca1;
+    border-radius: 45px;
+}
