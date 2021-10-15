@@ -1,15 +1,12 @@
 Breve explicacion (en español):
 
 # Vue-JSON
-Pagina web con implementacion de Vue y un archivo .JSON con informacion de la serie Breaking Bad 
 
-Para esta  pagina web se utilizo  el siguiente archivo .JSON: 
-https://breakingbadapi.com/api/characters
+Página web con implementación de Vue y un archivo .JSON con información de la serie Breaking Bad
 
-La idea principal era imprimir en la pagina principal la informacion brindada por el archivo, sobre los personajes de la 
-serie. Luego de tener todo lo necesario, le doy estilo a mi pagina con Bootstrap y CSS, para crear las tarjertas
-que contendran la informacion con una imagen del personaje.
-Lo realizado aqui es muy basico.
+Para esta página web se utilizó el siguiente archivo .JSON: https://breakingbadapi.com/api/characters
+
+La idea principal era imprimir en la página principal la información brindada por el archivo, sobre los personajes de la serie. Luego de tener todo lo necesario, le doy estilo a mi página con Bootstrap y CSS, para crear las tarjetas que contendrá la información con una imagen del personaje. Lo realizado aquí es muy básico.
 
 # Vue-JSON
 
